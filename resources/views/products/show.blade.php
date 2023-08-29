@@ -18,7 +18,6 @@
 
             </div>
         </div>
-        {{-- SEZIONE DESCRIZIONE FUMETTO --}}
         <div class="container pb-5">
             <div class="row">
                 <div class="col-8">
@@ -56,7 +55,6 @@
             </div>
         </div>
         <div class="table-bg">
-            {{-- SEZIONE TABELLE --}}
             <div class="container pb-3">
                 <div class="row">
                     <div class="col-6">
